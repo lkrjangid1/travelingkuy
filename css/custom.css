@@ -1,0 +1,47 @@
+h1 {
+	color: blue;
+}
+.margin-video {
+	margin-bottom: 10px;
+}
+html, body {
+	background: #A4CFEE;
+}
+.slider{
+  width:700px;
+  margin:20px auto;
+  text-align: center;
+  padding:20px;
+  color:white;
+  .parent-slide{padding:15px;}
+  img{display: block;margin:auto;}
+}
+
+.margin-nav {
+	margin-right: 5px;
+}
+.padding-place {
+	margin-left: 20px;
+}
+
+.margin-10 {
+	margin-left: 10px;
+}
+.content-image {
+	width: 200px;
+	height: 200px;
+}
+
+.card img {
+	height: 100px;
+	width: 180px;
+}
+
+.img-detail-wisata{
+  width: 400px;
+  height: 400px;
+}
+
+/* .margin-right {
+	margin-bottom: 10px;
+} */

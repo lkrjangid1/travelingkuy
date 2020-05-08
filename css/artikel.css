@@ -1,0 +1,14 @@
+html,
+body,
+header,
+#artikel {
+    height: 100%;
+}
+
+#artikel {
+  background: url("https://specials-images.forbesimg.com/imageserve/675172642/960x0.jpg?fit=scale")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}

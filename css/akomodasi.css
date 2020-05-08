@@ -1,0 +1,27 @@
+html,
+body,
+header,
+#akomodasi {
+    height: 100%;
+}
+
+#akomodasi {
+  background: url("https://q-cf.bstatic.com/images/hotel/max1024x768/216/216004253.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.image-kuliner {
+  opacity: 0.5;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.card:hover .image-kuliner {
+  opacity: 0.9;
+}

@@ -1,0 +1,14 @@
+html,
+body,
+header,
+#galeri {
+    height: 100%;
+}
+
+#galeri {
+  background: url("https://maritim.go.id/konten/unggahan/2016/01/GunungBromo3-1.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}

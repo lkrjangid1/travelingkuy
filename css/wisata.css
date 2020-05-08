@@ -1,0 +1,27 @@
+html,
+body,
+header,
+#wisata {
+    height: 100%;
+}
+
+#wisata {
+  background: url("https://4.bp.blogspot.com/-IUC0g8KTh6E/W35nZuDYwiI/AAAAAAAAeeI/mR7WJaAQKTsB0jP26_x7binp6RDVEgIqwCLcBGAs/s1600/CS1.JPG")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.image-wisata {
+  opacity: 0.5;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.card:hover .image-wisata {
+  opacity: 0.9;
+}
